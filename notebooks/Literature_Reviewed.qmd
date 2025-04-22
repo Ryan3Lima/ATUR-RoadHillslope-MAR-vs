@@ -1,0 +1,19 @@
+---
+title: Literature Reviwed
+description: Literature on Hillslope/Road MAR
+authors:
+  - name: Ryan Lima
+jupyter: python3
+---
+
+# Study Area
+
+# MAR
+
+# Mountain Front Recharge
+
+# Suitability Mapping
+
+
+
+

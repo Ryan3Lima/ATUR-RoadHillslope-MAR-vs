@@ -1,0 +1,28 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: Literature Reviwed\n",
+        "description: Literature on Hillslope/Road MAR\n",
+        "authors:\n",
+        "  - name: Ryan Lima\n",
+        "jupyter: python3\n",
+        "---"
+      ],
+      "id": "d7fe7c42"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "C:\\Users\\rl587\\AppData\\Roaming\\Python\\share\\jupyter\\kernels\\python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

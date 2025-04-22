@@ -1,0 +1,12 @@
+{
+  "hash": "532bad32bad92548c09099bf3862ef75",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Literature Reviwed\ndescription: Literature on Hillslope/Road MAR\nauthors:\n  - name: Ryan Lima\njupyter: python3\n---\n\n",
+    "supporting": [
+      "Literature_Reviewed_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
